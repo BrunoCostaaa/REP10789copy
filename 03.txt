@@ -1,0 +1,9 @@
+<<<<<<< HEAD
+1º ficheiro do REP10789
+=======
+1º ficheiro do REP10789
+
+Ficheiro àlterado às 14:33
+
+Ficheiro alterado as 15:00
+>>>>>>> main
